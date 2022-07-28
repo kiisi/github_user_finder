@@ -258,6 +258,7 @@ body{
     .content-card {
         flex-direction: column;
         max-width:100%;
+        padding:0;
     }
     .content-card-details-wrapper {
         margin-left:0;
